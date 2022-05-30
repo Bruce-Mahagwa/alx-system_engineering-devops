@@ -1,0 +1,23 @@
+total 84
+drwxr-xr-x 2 root root  4096 May 30 08:52 .
+drwxr-xr-x 6 root root   104 May 30 02:52 ..
+-rwxr--r-- 1 root root    32 May 30 02:54 0-hello_world
+-rwxr--r-- 1 root root    23 May 30 07:10 10-no_more_js
+-rw-r--r-- 1 root root 12288 May 30 06:55 .10-no_more_js.swp
+-rwxr--r-- 1 root root    31 May 30 07:46 12-newest_files
+-rw-r--r-- 1 root root     0 May 30 07:51 13-unique
+-rwxr--r-- 1 root root    51 May 30 08:00 14-findthatword
+-rwxr--r-- 1 root root    28 May 30 03:59 1-confused_smiley
+-rw-r--r-- 1 root root 12288 May 30 03:19 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 May 30 03:41 2-hellofile
+-rwxr--r-- 1 root root    40 May 30 04:03 3-twofiles
+-rwxr--r-- 1 root root    34 May 30 04:07 4-lastlines
+-rwxr--r-- 1 root root    34 May 30 04:17 5-firstlines
+-rwxr--r-- 1 root root    44 May 30 07:17 6-third_line
+-rwxr--r-- 1 root root    81 May 30 05:29 7-file
+-rwxr--r-- 1 root root    36 May 30 06:41 8-cwd_state
+-rw-r--r-- 1 root root     1 May 30 05:29 Best School
+-rw-r--r-- 1 root root     0 May 30 05:29 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root     0 May 30 08:52 commands
+-rw-r--r-- 1 root root     0 May 30 05:15 iacta
+-rw-r--r-- 1 root root    45 May 30 02:58 README.md
