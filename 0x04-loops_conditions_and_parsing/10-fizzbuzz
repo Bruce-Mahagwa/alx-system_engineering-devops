@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#Prints out a word game based on divisibility
+num=1
+for num in {1..100};
+do
+	if [ $((num%15)) -eq 0 ]; then
+		echo "FizBuzz"
+	elif [ $((num%5)) -eq 0 ]; then
+		echo "Buzz"
+	elif [ $((num%3)) -eq 0 ]; then
+		echo "Fizz"
+	else
+		echo "$num"
+	fi
+done
