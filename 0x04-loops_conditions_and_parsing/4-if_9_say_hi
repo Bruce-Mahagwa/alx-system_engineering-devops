@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#Prints Best School 10 times with one itration of Hi
+message="Best School"
+end=10
+while [ $end -gt 0 ];
+do
+	if [ $((end)) = 2 ]; then
+		echo "$message"
+		echo "Hi"
+	else
+		echo "$message"
+	fi
+	((end--))
+done
