@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Prints Best School 10 times
+message="Best School"
+end=10
+while [ "$end" -gt 0 ];
+do
+	echo "$message"
+	((end--))
+done
