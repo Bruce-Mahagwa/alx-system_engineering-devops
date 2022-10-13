@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#Prints several strings on specific iterations
+message="Best School"
+end=10
+while [ $((end)) -gt 0 ];
+do
+	if [ $((end)) = 7 ]; then
+		echo "bad luck"
+	elif [ $((end)) = 3 ]; then
+		echo "good luck"
+	else
+		echo "$message"
+	fi
+	((end--))
+done
