@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Prints Best School 10 times with an until loop
+message="Best School"
+end=10
+until [ $end = 0 ];
+do
+	echo "$message"
+	end=$((end-1))
+done
