@@ -3,5 +3,5 @@
 message="Best School"
 for n in {1..10};
 do
-	echo $message
+	echo "$message"
 done
