@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#displays a string infinitely with iterations of another string based on a signal sent
+trap "echo 'I am invincible!!!'" SIGTERM
+num=1
+while [ "$num" -gt 0 ];
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
