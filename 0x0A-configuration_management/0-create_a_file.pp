@@ -1,4 +1,4 @@
-file {'/tmp/school':
+file {'school':
   path =>'/tmp/school',
   ensure  => present,
   mode    => '0744',
